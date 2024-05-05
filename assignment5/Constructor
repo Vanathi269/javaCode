@@ -1,0 +1,6 @@
+Advantages of constructor:
+	---We use constructors to initialize the object with the default or initial state. 
+The default values for primitives may not be what are you looking for.
+	---Another reason to use constructor is that it informs about dependencies.
+ In other words, using the constructor, we can request the user of that class for required dependencies.
+	---We can find out what it needs in order to use this class, just by looking at the constructor
